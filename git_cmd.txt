@@ -1,0 +1,16 @@
+git コマンド集
+
+git mkdir ディレクトリ新規作成
+git cd ディレクトリ移動
+git init リポジトリ作成
+git ls ディレクトリの内容表示 -aオプションで隠しファイルも表示
+git add ステージに変更を追加
+git commit リポジトリに変更を追加
+git status 現在の変更状況を確認
+git diff ワークツリーとリポジトリの変更内容の違いを表示
+git diff --staged ステージとリポジトリとの変更内容の違いを表示
+git log コミットの履歴を表示
+git rm ファイルを削除
+git rm -r ディレクトリを削除
+git rm --cached ファイルをリポジトリから削除
+git mv ファイルの内容をそのままに名前を変え、ステージに置く。rm→addの手順と同じ
