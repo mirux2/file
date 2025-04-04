@@ -7,7 +7,7 @@ git ls ディレクトリの内容表示 -aオプションで隠しファイル�
 git add ステージに変更を追加
 git commit リポジトリに変更を追加
 git status 現在の変更状況を確認
-git diff ワークツリーとリポジトリの変更内容の違いを表示
+git diff ワークツリーとステージの変更内容の違いを表示
 git diff --staged ステージとリポジトリとの変更内容の違いを表示
 git log コミットの履歴を表示
 git rm ファイルを削除
