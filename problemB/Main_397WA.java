@@ -1,7 +1,7 @@
 package problemB;
 import java.util.Scanner;
 
-public class Main_397 {
+public class Main_397WA {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String S = sc.next();
